@@ -1,0 +1,3 @@
+Suma: 43
+Najdulji: uvjerljivo najduzi opis alarma
+Najkraci: najkraci opis 
